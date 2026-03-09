@@ -152,4 +152,4 @@ int main() {
 
 - 실행 결과
 
-![실행 결과](https://github.com/bbanggang/computervision/issues/1#issue-4043335525)
+![실행 결과](https://github.com/user-attachments/assets/81a8e1ee-a688-48d0-9dca-c20e0dcd035b)
