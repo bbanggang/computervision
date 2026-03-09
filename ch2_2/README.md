@@ -152,4 +152,4 @@ int main() {
 
 - 실행 결과
 
-![포함 디렉터리 설정](https://github.com/bbanggang/computervision/issues/1#issue-4043335525)
+![실행 결과](https://github.com/bbanggang/computervision/issues/1#issue-4043335525)
