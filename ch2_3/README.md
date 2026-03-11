@@ -64,8 +64,7 @@ int main() {
 }
 ```
 
-
-![test2_video](https://github.com/user-attachments/assets/17964d1e-c762-45f3-b4bd-602af325f2ec)
+- [test2_video](https://github.com/user-attachments/assets/17964d1e-c762-45f3-b4bd-602af325f2ec)
 
 ## 과제 3
 
@@ -102,4 +101,4 @@ int main() {
 }
 ```
 
-![test3_video](https://github.com/user-attachments/assets/9effbb87-f776-47b9-8376-0cd8ebe898c7)
+- [test3_video](https://github.com/user-attachments/assets/9effbb87-f776-47b9-8376-0cd8ebe898c7)
