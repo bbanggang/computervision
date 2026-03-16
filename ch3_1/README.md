@@ -45,9 +45,10 @@ int main(void) {
 	return 0;
 }
 
+```
+### 실행 결과
 ![work1](https://github.com/user-attachments/assets/f02d9358-5d59-4af6-b8de-398ff540ce02)
 
-```
 
 ## 과제 2
 
@@ -98,9 +99,12 @@ int main(void) {
 	return 0;
 }
 
-![work2](https://github.com/user-attachments/assets/8ad003b5-19c4-4435-a196-7294296dd0a8)
 
 ```
+
+### 실행 결과
+![work2](https://github.com/user-attachments/assets/8ad003b5-19c4-4435-a196-7294296dd0a8)
+
 
 ## 과제 3
 
@@ -129,9 +133,11 @@ int main(void) {
 	return 0;
 }
 
-![work3](https://github.com/user-attachments/assets/ddca46b5-6f6f-41c8-b50f-6f0cf129c146)
 
 ```
+### 실행 결과
+![work3](https://github.com/user-attachments/assets/ddca46b5-6f6f-41c8-b50f-6f0cf129c146)
+
 
 ## 과제 4
 
@@ -208,9 +214,11 @@ Rect getSafeRect() {
 	}
 }
 
-![work4](https://github.com/user-attachments/assets/95d8b6bd-9f91-4242-b94a-26beabbe46d9)
 
 ```
+### 실행 결과
+![work4](https://github.com/user-attachments/assets/95d8b6bd-9f91-4242-b94a-26beabbe46d9)
+
 
 ---
 
@@ -257,6 +265,7 @@ int main(void) {
 	return 0;
 }
 
-![work5](https://github.com/user-attachments/assets/cab08478-62bc-4fd8-8676-1cffd7a8f5b6)
-
 ```
+
+### 실행 결과
+![work5](https://github.com/user-attachments/assets/cab08478-62bc-4fd8-8676-1cffd7a8f5b6)
