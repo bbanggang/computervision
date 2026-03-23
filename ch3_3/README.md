@@ -26,7 +26,7 @@ int main() {
 ### 실행결과
 ![work1](https://github.com/user-attachments/assets/e27c69cd-7483-4f74-b155-01ee7b51f3ed)
 
-```
+
 
 ## 과제 2
 
@@ -57,7 +57,7 @@ int main() {
 ### 실행결과
 ![work2](https://github.com/user-attachments/assets/abf18da0-7ee1-4e59-8f36-a24b9cc7e7d8)
 
-```
+
 
 ## 과제 3
 
@@ -120,7 +120,6 @@ int main(void) {
 ### 실행결과
 ![work3](https://github.com/user-attachments/assets/e8de2959-8a7a-4e6e-8073-4f9b3a3213f2)
 
-```
 
 ## 과제 4
 
@@ -154,7 +153,7 @@ int main() {
 ### 실행결과
 ![work4](https://github.com/user-attachments/assets/55d2cf94-e00b-42f0-9419-64a8bb77336b)
 
-```
+
 
 ## 과제 5
 
