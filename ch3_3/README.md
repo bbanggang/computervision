@@ -194,5 +194,3 @@ int main() {
 ```
 ### 실행결과
 ![work5](https://github.com/user-attachments/assets/1953fa19-638e-4eff-8a46-5b99f2d36684)
-
-```
