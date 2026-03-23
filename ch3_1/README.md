@@ -268,4 +268,5 @@ int main(void) {
 ```
 
 ### 실행 결과
+
 ![work5](https://github.com/user-attachments/assets/cab08478-62bc-4fd8-8676-1cffd7a8f5b6)
