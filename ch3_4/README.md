@@ -119,7 +119,7 @@ int main(void) {
 ```
 
 ### 실행결과
-![work4](https://github.com/user-attachments/assets/6eecdfa7-3748-4d65-844e-cfe6a2236482)
+[work4](https://github.com/user-attachments/assets/6eecdfa7-3748-4d65-844e-cfe6a2236482)
 
 ## 과제 5
 
@@ -147,7 +147,7 @@ int main(void) {
 }
 ```
 ### 실행결과
-![work5](https://github.com/user-attachments/assets/01934e09-1f4c-4dfd-8d51-466c4052b793)
+[work5](https://github.com/user-attachments/assets/01934e09-1f4c-4dfd-8d51-466c4052b793)
 
 ## 과제 6
 
