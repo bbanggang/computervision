@@ -132,7 +132,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-![work2](https://youtu.be/2xFJ8j7kVMc)
+[work2](https://youtu.be/2xFJ8j7kVMc)
 
 ## 과제 4
 
