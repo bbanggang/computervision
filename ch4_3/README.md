@@ -418,6 +418,43 @@ int main(void) {
 
 ## 과제 9
 
+흰색 이미지에서 키 입력(`l`, `r`, `u`, `d`)으로 현재 위치를 이동시키며 이동 경로를 검은색 선으로 그려나가는 프로그램이다. 화면 경계를 벗어나면 경고 메시지를 출력하고, `q` 또는 `Q` 키를 누르면 종료된다.
+
+---
+
+### `main()`
+
+현재 위치에서 다음 위치로 이동 시 `line()`으로 경로를 그리고, 경계 조건을 검사하여 이동 여부를 결정한다.
+
+```cpp
+int main(void) {
+    Mat img(500, 500, CV_8UC3, Scalar(255, 255, 255));      // 500x500 흰색 이미지 생성
+    Point curr_pos(img.cols / 2, img.rows / 2);             // 시작 위치: 이미지 중앙 (250, 250)
+    int step = 50;                                          // 한 번 이동 시 픽셀 단위 이동량
+    cout << "프로그램 시작" << endl;
+    while (true) {
+        imshow("Line Drawing", img);
+        int key = waitKey(0);                               // 키 입력 대기
+        if (key == 'q' || key == 'Q') break;               // 'q'/'Q': 종료
+        Point next_pos = curr_pos;
+        if (key == 'l') next_pos.x -= step;     // 'l': 좌측으로 step만큼 이동
+        else if (key == 'r') next_pos.x += step; // 'r': 우측으로 step만큼 이동
+        else if (key == 'u') next_pos.y -= step; // 'u': 위쪽으로 step만큼 이동
+        else if (key == 'd') next_pos.y += step; // 'd': 아래쪽으로 step만큼 이동
+        else continue;                                      // 그 외 키는 무시하고 다음 반복으로
+        if (next_pos.x >= 0 && next_pos.x <= img.cols &&
+            next_pos.y >= 0 && next_pos.y <= img.rows) {   // 이미지 경계 내에 있는지 확인
+            line(img, curr_pos, next_pos, Scalar(0, 0, 0), 2, LINE_AA);    // 현재 위치에서 다음 위치까지 안티앨리어싱 선 그리기
+            curr_pos = next_pos;                            // 현재 위치 갱신
+        }
+        else {
+            cout << "경고: 화면 범위를 벗어날 수 없습니다." << endl;
+        }
+    }
+    return 0;
+}
+```
+
 ### 실행 결과
 [video](https://github.com/user-attachments/assets/59e2e11d-3961-474c-bf48-8e7d76790013)
 
