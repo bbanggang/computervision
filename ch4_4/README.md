@@ -75,7 +75,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/ded6d29d-c040-4d86-98df-9b7f23f05d1b)
 
 
 ## 과제 2
@@ -136,7 +136,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/6f5823f7-9eb5-440c-adf6-03f7ca5c6d13)
 
 
 ## 과제 3
@@ -186,7 +186,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/4c118b61-1a93-4e6e-84af-831202e2e539)
 
 
 ## 과제 4
@@ -236,7 +236,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/fc506b4f-03f7-491e-9a6c-edc5724889a8)
 
 
 ## 과제 5
@@ -295,7 +295,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/3dad3c40-c156-4e70-b756-1f89bdf970e0)
 
 
 ## 과제 6
@@ -344,7 +344,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/90fa2322-3158-43e4-b464-6dc21efe39b2)
 
 
 ## 과제 7
@@ -438,4 +438,4 @@ int main(void) {
 ```
 
 ### 실행 결과
-[video]()
+[video](https://github.com/user-attachments/assets/3984f2ae-bef4-4c35-87c3-223a95b145f1)
