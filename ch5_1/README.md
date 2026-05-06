@@ -53,6 +53,8 @@ int main(void) {
 ```
 
 ### 실행 결과
+[video1](https://github.com/user-attachments/assets/9132b925-90e1-48d7-80d0-16e31a293b43)
+
 
 
 ## 과제 2
@@ -108,7 +110,7 @@ int main(void) {
 ```
 
 ### 실행 결과
-
+[video2](https://github.com/user-attachments/assets/4e46e74a-5c1a-431d-a848-f0d9cd8be543)
 
 ## 과제 3
 
@@ -172,6 +174,7 @@ int main(void) {
 ```
 
 ### 실행 결과
+[video3](https://github.com/user-attachments/assets/16f78b4d-c8c1-4357-acda-91915db6a405)
 
 
 ## 과제 4
@@ -232,3 +235,4 @@ int main(void) {
 ```
 
 ### 실행 결과
+[video4](https://github.com/user-attachments/assets/4ead3e6f-26f8-40e6-a096-2e774a14907b)
