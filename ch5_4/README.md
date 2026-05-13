@@ -26,8 +26,6 @@ $$dst(x, y) = \frac{src(x, y) - G_{min}}{G_{max} - G_{min}} \times 255$$
 
 ---
 
-### 실행 결과
-
 
 
 ## 과제 2
@@ -55,8 +53,6 @@ $$dst(x, y) = \frac{src(x, y) - G_{min}}{G_{max} - G_{min}} \times 255$$
 - 대비(명암비)가 낮은 영상에서 효과적이며, 히스토그램 스트레칭보다 전반적으로 더 뚜렷한 개선을 보인다.
 
 ---
-
-### 실행 결과
 
 
 
@@ -142,7 +138,7 @@ int main(void)
 ```
 
 ### 실행 결과
-
+![image3](https://github.com/user-attachments/assets/1cb9707d-5cbf-41f7-a459-a15628acf69a)
 
 
 ## 과제 4
@@ -221,6 +217,7 @@ int main(void)
 ```
 
 ### 실행 결과
+![image4](https://github.com/user-attachments/assets/3de33f53-3a7b-4272-99f9-93dcf39fc5d0)
 
 
 
@@ -300,6 +297,7 @@ int main(void)
 ```
 
 ### 실행 결과
+![image5](https://github.com/user-attachments/assets/b350934d-28ed-4b18-bb16-04d99a994d5a)
 
 
 
@@ -413,3 +411,4 @@ int main(void)
 ```
 
 ### 실행 결과
+![image6](https://github.com/user-attachments/assets/2109d314-1bdf-4669-bbde-0009549876dc)

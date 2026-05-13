@@ -287,4 +287,4 @@ int main(void)
 
 ### 실행 결과
 
-![image4](https://github.com/user-attachments/assets/ce915567-f175-40ad-aaf4-e22c52cd8def)
+![image4](https://github.com/user-attachments/assets/68b8cb3a-3c80-40a6-a6d0-1db72cfbf0c4)
