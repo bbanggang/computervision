@@ -32,7 +32,7 @@ int main(void)
 ```
 
 ### 실행 결과
-
+[video](https://github.com/user-attachments/assets/3df8bb30-5408-4663-89a3-d5a6abdb7c93)
 
 
 ## 과제 2
@@ -69,6 +69,7 @@ int main(void)
 ```
 
 ### 실행 결과
+[video](https://github.com/user-attachments/assets/d0ebf9a3-0e05-4ed3-bc81-090eae9ce276)
 
 
 
@@ -113,6 +114,7 @@ int main(void)
 ```
 
 ### 실행 결과
+[video](https://github.com/user-attachments/assets/48b5b2a6-4fec-4f07-8877-4fc052defab2)
 
 
 
@@ -151,6 +153,7 @@ int main(void)
 ```
 
 ### 실행 결과
+[video](https://github.com/user-attachments/assets/827cbdfb-b725-4672-8271-f126c62dd01a)
 
 
 
@@ -216,6 +219,7 @@ int main(void)
 ```
 
 ### 실행 결과
+[video](https://github.com/user-attachments/assets/e97629c9-8c33-490f-b6e9-7f90e94db99c)
 
 
 
@@ -295,3 +299,4 @@ int main(void)
 ```
 
 ### 실행 결과
+[video](https://github.com/user-attachments/assets/ff408a2f-eeff-4bc4-8941-e2b60042177f)
