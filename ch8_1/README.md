@@ -219,4 +219,4 @@ int main(void)
 ```
 
 ### 실행 결과
-![video](https://github.com/user-attachments/assets/7ec2e4bf-1905-4cc6-af7a-5a442fa6d588)
+[video](https://github.com/user-attachments/assets/7ec2e4bf-1905-4cc6-af7a-5a442fa6d588)
